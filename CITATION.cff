@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software or data in your research, please cite the primary published paper below."
+authors:
+  - family-names: Hazra
+    given-names: Atrayee
+title: "Beyond-Shell-Growth-Temporal-Evolution-of-the-Au-Ag-core-shell"
+version: 1.0.0
+date-released: 2026-09-09
+url: "https://github.com/hazraatrayee/Beyond-Shell-Growth-Temporal-Evolution-of-the-Au-Ag-core-shell"
+license: GPL-3.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Hazra
+      given-names: Atrayee
+    - family-names: Syed M
+      given-names: Hossain
+    - family-names: Pramanick
+      given-names: Ashit Kumar
+    - family-names: Ray
+      given-names: Mallar
+  title: "Spontaneous interfacial alloying in Au@ Ag Core@ Shell nanoparticles: unraveling the impact on plasmonic absorption"
+  journal: "The Journal of Physical Chemistry C"
+  year: 2025  
+  volume: 129 
+  issue: 24    
+  doi: "10.1021/acs.jpcc.5c02401"
+references:
+  - type: article
+    authors:
+      - family-names: Yurkin
+        given-names: Maxim A.
+      - family-names: Hoekstra
+        given-names: Alfons G.
+    title: "The discrete dipole approximation: An overview"
+    journal: "Journal of Quantitative Spectroscopy and Radiative Transfer"
+    volume: 112
+    issue: 14
+    pages: "2234-2247"
+    year: 2011
+    doi: "10.1016/j.jqsrt.2011.01.031"

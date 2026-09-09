@@ -145,4 +145,10 @@
 # \* \*\*Geometry Visualization:\*\* For every single simulated wavelength, a dedicated file is generated so you can inspect and verify the simulated physical geometry.
 
 
+## 📜 Acknowledgements & Original Code
+This project utilizes a modified version of the **ADDA (Amsterdam DDA)** simulation code. We express our gratitude to the original developers of ADDA. 
+
+If you use this modified suite, please make sure to cite the original ADDA paper alongside this repository:
+* Yurkin, M. A., & Hoekstra, A. G. (2011). *The discrete dipole approximation: An overview.* **Journal of Quantitative Spectroscopy and Radiative Transfer**, 112(14), 2234-2247.
+* Official ADDA Repository: [https://github.com](https://github.com)
 
